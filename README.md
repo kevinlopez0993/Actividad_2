@@ -24,7 +24,7 @@ Taller de productividad basada en herramientas tecnológicas Fase IV : Resultado
 Es un sistema que permite la entrada al sistema web, tanto administrador como vendedor y usuario.
 <a name="Problema-identificado"></a>
 ## Problema identificado
-La microempresa no contaba con la pagina web y esta queria tener un mayor alcance a mas usuarios para ofrecer sus produstos y asi poder aumentar sus ventas.
+La microempresa no contaba con la pagina web y esta queria tener un mayor alcance a más usuarios para ofrecer sus productos y así poder aumentar sus ventas.
 ***
 <a name="Solución"></a>
 ## Solución 
